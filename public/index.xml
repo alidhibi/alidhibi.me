@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ali DHIBI</title>
+    <link>http://www.alidhibi.me/</link>
+    <description>Recent content on Ali DHIBI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 21:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.alidhibi.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About-me</title>
+      <link>http://www.alidhibi.me/post/about-me/</link>
+      <pubDate>Tue, 31 Oct 2017 21:07:31 +0200</pubDate>
+      
+      <guid>http://www.alidhibi.me/post/about-me/</guid>
+      <description>En 2 mots&amp;hellip; ou plus :) Programmeur expérimenté, ayant un intérêt marqué pour la technologie Web et les nouveautés. Curieux, autonome, minutieux, persévérant, soucieux de me perfectionner, responsable.
+En détails Actuellement Team Leader chez un éditeur de logiciels spécialisé dans la GED.
+Expérience Depuis 2005, j
+ Change your submodule to point to map gh-pages to public instead of _site (recommended).
+git submodule deinit _site git rm _site git submodule add -b gh-pages git@github.</description>
+    </item>
+    
+    <item>
+      <title>About-me</title>
+      <link>http://www.alidhibi.me/me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.alidhibi.me/me/</guid>
+      <description>En 2 mots&amp;hellip; ou plus :) Programmeur expérimenté, ayant un intérêt marqué pour la technologie Web et les nouveautés. Curieux, autonome, minutieux, persévérant, soucieux de me perfectionner, responsable.
+En détails J&amp;rsquo;ai 35 ans, je suis marié et j&amp;rsquo;ai un enfant &amp;lt;3
+Actuellement Scrum master, Team Leader chez un éditeur de logiciels spécialisé dans la GED. J&amp;rsquo;ai plusque 11 ans d&amp;rsquo;expérience dans le domaine du web, 8 ans dans la GED</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.alidhibi.me/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.alidhibi.me/contact/</guid>
+      <description> Keep in touch ! Actuellement je suis à la compagne, à 10 km de Hammamet mais je suis toujours connecté au monde, donc hésitez pas
+Tel: 21610631 Email: alidhibi@gmail.com Skype: alidhibi </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Ali DHIBI</title>
+    <link>http://www.alidhibi.me/post/</link>
+    <description>Recent content in Posts on Ali DHIBI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 21:07:31 +0200</lastBuildDate>
+    
+	<atom:link href="http://www.alidhibi.me/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About-me</title>
+      <link>http://www.alidhibi.me/post/about-me/</link>
+      <pubDate>Tue, 31 Oct 2017 21:07:31 +0200</pubDate>
+      
+      <guid>http://www.alidhibi.me/post/about-me/</guid>
+      <description>En 2 mots&amp;hellip; ou plus :) Programmeur expérimenté, ayant un intérêt marqué pour la technologie Web et les nouveautés. Curieux, autonome, minutieux, persévérant, soucieux de me perfectionner, responsable.
+En détails Actuellement Team Leader chez un éditeur de logiciels spécialisé dans la GED.
+Expérience Depuis 2005, j
+ Change your submodule to point to map gh-pages to public instead of _site (recommended).
+git submodule deinit _site git rm _site git submodule add -b gh-pages git@github.</description>
+    </item>
+    
+  </channel>
+</rss>

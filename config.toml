@@ -1,0 +1,35 @@
+baseurl = "http://www.alidhibi.me"
+title = "Ali DHIBI"
+theme = "vec"
+languageCode = "en-us"
+paginate = 10
+disqusShortname = "alidhibi"
+googleAnalytics = "UA-57408564-1"
+
+[menu]
+  # Shown in the side menu.
+  #[[menu.main]]
+  #  name = "post"
+  #  weight = 0
+  #  url = "/post"
+  [[menu.main]]
+    name = "contact"
+    weight = 1
+    url = "/contact"
+  [[menu.main]]
+    name = "about me"
+    weight = 2
+    url = "/me"
+
+[params]
+  Keywords = "Ali DHIBI"
+  Description = "Ali DHIBI"
+  Avatar = "img/avatar.png"
+  SelfIntro = "If we knew what it was we were doing, it would not be called research, would it?"
+  Email = "alidhibi@gmail.com"
+
+  GithubID = "alidhibi"
+  TwitterID = "alidhibi"
+  FacebookID = "#"
+  LinkedInID = "ali-dhibi-805a6638"
+  GoogleplusID = "+AliDhibi"
