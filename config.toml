@@ -1,10 +1,10 @@
 baseurl = "http://www.alidhibi.me"
 title = "Ali DHIBI"
 theme = "vec"
-languageCode = "en-us"
+languageCode = "fr-fr"
 paginate = 10
 disqusShortname = "alidhibi"
-googleAnalytics = "UA-57408564-1"
+googleAnalytics = "UA-109188815-1"
 
 [menu]
   # Shown in the side menu.
